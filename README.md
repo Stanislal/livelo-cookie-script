@@ -25,7 +25,7 @@ Clique no link abaixo para instalar o script diretamente via Tampermonkey:
 
 2. O script será executado automaticamente, inserindo o cookie `livelo_bypass_redirect`.
 
-3. A partir daí, sua navegação no site continuará sem o redirecionamento automático para a nova versão.
+3. A partir daí, sua navegação no site continuará sem o redirecionamento automático.
 
 ---
 
