@@ -16,6 +16,17 @@ Clique no link abaixo para instalar o script diretamente via Tampermonkey:
 
 👉 [Instalar Script](https://github.com/Stanislal/livelo-cookie-script/raw/refs/heads/master/livelo-bypass-redirect.user.js)
 
+## 🛠️ Passo a passo (Chrome)
+
+Caso o script não seja executado automaticamente após a instalação, siga os passos abaixo para habilitar o modo desenvolvedor no Tampermonkey:
+
+1. Clique no ícone do Tampermonkey no canto superior direito do navegador com o botão direito.
+
+2. Clique em Gerenciar Extensão.
+
+3. No canto superior direito da dashboard, ative a opção Modo de desenvolvedor (Developer Mode).
+
+4. Clique no link [Instalar Script](https://github.com/Stanislal/livelo-cookie-script/raw/refs/heads/master/livelo-bypass-redirect.user.js)
 ---
 
 ## 💡 Como funciona?
